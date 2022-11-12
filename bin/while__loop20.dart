@@ -1,7 +1,7 @@
 void main() {
   int i = 12;
   int a = 1;
-  while (i < 34) {
+  while (i <= 34) {
     a *= i;
     i++;
   }
