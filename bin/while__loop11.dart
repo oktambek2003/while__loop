@@ -1,6 +1,6 @@
 void main() {
-  int i = 99;
-  while (i > 0) {
+  int i =  99;
+  while (i >= 0) {
     print(i);
     i--;
   }

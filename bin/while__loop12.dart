@@ -1,6 +1,6 @@
 void main() {
   int i = 3452;
-  while (i > 40) {
+  while (i >= 40) {
     print(i);
     i--;
   }
