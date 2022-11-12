@@ -1,6 +1,6 @@
 void main() {
   int i = 0;
-  while (i <= 100) {
+  while (i < 100) {
     print('oktam');
     i++;
   }
