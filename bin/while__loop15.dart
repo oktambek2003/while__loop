@@ -1,7 +1,7 @@
 void main() {
   int a = 0;
   int i = 0;
-  while (i < 100) {
+  while (i <= 100) {
     a += i;
     i += 2;
   }
