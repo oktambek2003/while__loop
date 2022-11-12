@@ -1,5 +1,5 @@
 void main() {
-  int i = 52;
+  int i = 50;
   int a = 0;
   while (i < 1000) {
     a += i;
