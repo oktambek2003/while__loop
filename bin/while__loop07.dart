@@ -1,6 +1,6 @@
 void main() {
-  int i = 0;
-  while (i <= 127) {
+  int i = 2;
+  while (i < 127) {
     print(i);
     i += 2;
   }
